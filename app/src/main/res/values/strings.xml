@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ShowPhotoMVVM</string>
+    <string name="show_images">View Images</string>
 </resources>
